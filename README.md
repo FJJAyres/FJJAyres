@@ -1,4 +1,4 @@
-<h1>Hi, I'm Frederick! <br/><a href="https://www.linkedin.com/in/frederick-ayres-rsm/">Technology Risk Consultant</a></h1>
+<h1>Hi, I'm Frederick Ayres <br/><a href="https://www.linkedin.com/in/frederick-ayres-rsm/">Technology Risk Consultant</a></h1>
 
 <h2>👨‍💻 About me:</h2>
 
@@ -12,7 +12,7 @@
 - Creating a File Integrity Monitor
 - Setting up a Vulnerability Management Lab
 - Building a simple REST API
-- ... and more!
+- ... and more.
 
 <h2> 🌱 I’m also working towards:</h2>
 
