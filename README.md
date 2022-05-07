@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 About me:</h2>
 
-- Technology Risk Consultant at <a href="https://www.rsmuk.com/what-we-offer/by-service/risk-advisory/technology-risk-solutions">RSM UK </a>with a focus on Cyber Security/SWIFT controls within the financial sector
+- Technology Risk Consultant at <a href="https://www.rsmuk.com/what-we-offer/by-service/risk-advisory/technology-risk-solutions">RSM UK </a>with a focus on Cyber Security/SWIFT within the financial sector
 - Recently graduated with distinction (MSc Cyber Security, Threat Intelligence, & Forensics)
 
 <h2>🔭 Mini cyber projects I’m currently working on (coming soon):</h2>
